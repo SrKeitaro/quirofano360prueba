@@ -1,0 +1,4 @@
+include ':myapplication'
+include ':myapplication2'
+include ':myapplication'
+rootProject.name = "ktor-demo2"

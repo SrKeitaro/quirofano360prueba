@@ -1,0 +1,176 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Tour_Quirofano
+
+## Media
+
+### Título
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7.label = Album de Fotos 1INICIO
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_0.label = 1INICIO
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_1.label = acceso_quirofano
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_10.label = entrevista
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_11.label = estufa
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_12.label = exclusa
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_13.label = lamparas
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_14.label = maquina_anestesia
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_15.label = medicacion
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_16.label = monitor_BIS
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_17.label = monitor_cardiaco
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_18.label = monitor_respiratorio
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_19.label = monitorizacion
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_2.label = accesorios_tablero
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_20.label = panel_control
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_21.label = pasillo_1_al_8
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_22.label = pasillo_9_al_13
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_23.label = pasillo_sucio
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_24.label = perfusores
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_25.label = plano
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_26.label = preanestesia
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_27.label = preanestesia2
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_28.label = premedicacion
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_29.label = qx_cardiaca
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_3.label = aireacion
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_30.label = recuento
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_31.label = temp_hum_crono
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_32.label = timing_lavado
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_33.label = torre_laparoscopia
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_34.label = transfer_entrada
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_35.label = urpa
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_4.label = almacen
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_5.label = armario
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_6.label = calentador
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_7.label = cauterizacion
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_8.label = chequeo
+album_50680F40_5BBB_0E89_41D1_5B2C4528E3E7_9.label = control_enfermeria
+panorama_510A6D6D_5BB9_3298_41D0_2360519098CF.label = pasillo_central
+panorama_52D206F8_5BB9_1F79_41D5_8AA909EBA5EA.label = quirofano
+panorama_52D32B3B_5BB9_76FF_41D3_B8F98ED51801.label = preanestesia
+photo_473DB658_5CAB_1EB9_41BE_682DA2DED811.label = pasillo_1_al_8
+photo_479BD3EA_5CAB_3598_41D6_1FF466C6BB05.label = timing_lavado
+photo_481893F0_5BF9_7589_41C5_CF013BF0CD9F.label = transfer_entrada
+photo_7043FB21_5DFB_168B_414B_3672EA7B3DAC.label = lamparas
+video_70CF8350_5DEB_1689_41C3_338B29CBDFD9.label = mesa_laparo
+video_71D22ED9_5DF9_0FBB_41AA_7D7116888F57.label = tablero
+video_7784A92C_5DEF_1299_41CC_4F8B8C2952D5.label = guantes_bata
+video_FD397209_EE67_E0D0_41D3_116A115CBC96.label = laringoscopia-intubacion
+
+## Ventana
+
+### Cuerpo
+htmlText_44282BEF_5CF9_F597_41D1_2AE5BC004281.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Los quirófanos se disponen de forma que confluyan todos los accesos limpios hacia un mismo pasillo. Una puerta delimita el acceso a la zona de semirestringida.</SPAN></DIV></BODY></HTML></div>
+htmlText_4B9C9377_5CB7_1577_41C6_C48B9BA5B7D4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7413FA55_5C69_368B_41D3_548FC4ECAD80.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_749C0B8C_5C69_7599_41C7_D08762A97C86.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_75A027FC_5C69_1D79_41D5_A43C53AEC567.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7797CA15_5DFB_3688_4183_D4D80836F204.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El acto quirúrgico necesita de una correcta ilumicón con posibilidad de modificación en cuanto a la localización del foco, intensidad y temperatura de la luz.</SPAN></DIV></BODY></HTML></div>
+htmlText_787AE624_5C9B_1E89_41B0_B900070C9FE7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_788D0F3F_5C9B_0EF7_41D1_11A6637C3295.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_791346EE_5C9B_3F99_41BB_244DAA66604A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7953BB55_5C69_768B_41C9_A85AD7CC955E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7987474D_5C9B_7E9B_41B4_54DC78F10129.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_79A98146_5C6F_1289_41D1_5FCEEA1FECC3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7A2D93D7_5C6F_1588_41C2_5BC5999E53C0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7A882A55_5C6F_368B_41AC_293991AF6626.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7AC5F2AA_5D9B_3799_41B5_D1BD514BC635.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7B0F3F9D_5C69_0DBB_41D4_1A8C6B6FA15C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7B3C99A5_5D9B_758B_41C2_D60848263ACD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7B861B35_5C68_F68B_4191_DA9A7E0D8EE9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7BAC0141_5D99_128B_41D6_E81FDD85C5EB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7BFC34A4_5C6B_F389_41C5_A7EE2C126DBB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7F43436D_5C9B_369B_41D3_015DF069B568.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7F911B90_5C99_1589_41B2_3A41D3123252.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+htmlText_7FC5E53A_5C9B_12F9_41D6_5B79E0D900B8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El paciente pasa de la zona exterior a la zona restringida a través del transfer de entrada y ya en el tablero quirúrgico.</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_4030149E_5CA9_13B9_41D4_894D462B1726.title = Pasillo 1
+window_4BAE3156_5CA9_1289_41B3_4096F204351E.title = Transfer de Entrada
+window_741CDA58_5C69_36B9_4192_DF23A99F2B0F.title = Transfer de Entrada
+window_749CCB8C_5C69_7599_41BF_5C7E86701373.title = Transfer de Entrada
+window_75A187FC_5C69_1D79_41D3_9FA615EBF068.title = Transfer de Entrada
+window_77970A15_5DFB_3688_41D6_45E65179C2C4.title = Lamparas
+window_78751624_5C9B_1E89_41BB_C42CC5FCD7E8.title = Transfer de Entrada
+window_788DDF3F_5C9B_0EF7_41D6_0052DC0E6951.title = Transfer de Entrada
+window_7912B6EE_5C9B_3F99_41D2_CDAB5F539B61.title = Transfer de Entrada
+window_79536B55_5C69_768B_41D0_E8D24B977BEC.title = Transfer de Entrada
+window_7987774D_5C9B_7E9B_41CF_498B9B4B1C9B.title = Transfer de Entrada
+window_79A80146_5C6F_1289_41C5_BDDD9C9A8E9C.title = Transfer de Entrada
+window_7A2D63D8_5C6F_15B8_41D1_592F2BE0429F.title = Transfer de Entrada
+window_7A8FAA55_5C6F_368B_41D6_9359446A7EE9.title = Transfer de Entrada
+window_7AC472AA_5D9B_3799_41CA_98F6FE9896A7.title = Transfer de Entrada
+window_7B0F7F9E_5C69_0DB9_41BB_2FD609CC16BC.title = Transfer de Entrada
+window_7B3C49A5_5D9B_758B_41D0_DEA0BCD5EE95.title = Transfer de Entrada
+window_7B864B35_5C68_F68B_41D1_FEC078CC1D98.title = Transfer de Entrada
+window_7BADD141_5D99_128B_418E_E9D118862FD7.title = Transfer de Entrada
+window_7BFC64A4_5C6B_F389_41D2_1987E9E8DCBD.title = Transfer de Entrada
+window_7F42C36F_5C9B_3697_41A5_3B57FBA8E031.title = Transfer de Entrada
+window_7F96BB91_5C99_158B_41D4_B81703718FBF.title = Transfer de Entrada
+window_7FC5B53B_5C9B_12FF_41AF_3161B3D96F9E.title = Transfer de Entrada
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_44130BE8_5CF9_F599_41D1_07255826733E.toolTip = Pasillo 1
+HotspotPanoramaOverlayArea_4433CB76_5C99_1689_41B6_D699F8AA057A.toolTip = Control de Enfermeria
+HotspotPanoramaOverlayArea_448AAA75_5CF7_168B_41BE_9869750D7C44.toolTip = Plano
+HotspotPanoramaOverlayArea_44D884B4_5C99_1389_41D3_238922B85987.toolTip = Tranfer Salida
+HotspotPanoramaOverlayArea_44D8C64D_5CE9_3E9B_41B2_3F153EC53894.toolTip = Zona de Lavado Quirofano
+HotspotPanoramaOverlayArea_44F30787_5CE9_3D97_41CF_57E38E21E141.toolTip = Pasillo 2
+HotspotPanoramaOverlayArea_48C65E45_5BE9_0E8B_4194_0FE60F959F8D.toolTip = Transfer de Entrada
+HotspotPanoramaOverlayArea_4B132386_5C99_1589_41B4_10C8E7A79986.toolTip = Medicación
+HotspotPanoramaOverlayArea_4B63CC05_5C99_328B_41D0_A94D1076A4BA.toolTip = Exclusas
+HotspotPanoramaOverlayArea_4B99A18D_5CF9_159B_41AC_D9F6F56B551B.toolTip = Acceso Quirofano
+HotspotPanoramaOverlayArea_4BB4D063_5C99_128F_41B2_593AA2C1E377.toolTip = PreAnestesia
+HotspotPanoramaOverlayArea_4BBCCEB5_5C97_0F8B_41B0_26CA87253261.toolTip = Quirofano 14
+HotspotPanoramaOverlayArea_4BC21BFF_5C9B_1578_41D4_125561A034E4.toolTip = Almacen
+HotspotPanoramaOverlayArea_70E42603_5DFB_7E8F_41C9_AE903FB8AA54.toolTip = Lamparas
+HotspotPanoramaOverlayArea_74133A54_5C69_3689_41D5_9ECF9EBF8FCC.toolTip = Calentadores de Fluidos y Manta Térmica
+HotspotPanoramaOverlayArea_7461300A_5DA8_F299_41D2_33999618AEDC.toolTip = Accesorios Tablero Quirúrgico
+HotspotPanoramaOverlayArea_749C6B8B_5C69_759F_41A6_7360DCAADC96.toolTip = Temperatura, Humedad y Crono
+HotspotPanoramaOverlayArea_74AA34A5_5DBB_338B_41D4_8193449BC513.toolTip = Transfer de Entrada
+HotspotPanoramaOverlayArea_74F7616F_5DAB_1297_41C6_8B7F3F67FFD8.toolTip = Torre de Suministros
+HotspotPanoramaOverlayArea_75726DE0_5DEB_0D89_41B9_A31ACE204ED2.toolTip = Mesa de Mayo y Cigúeña
+HotspotPanoramaOverlayArea_75A017FC_5C69_1D79_41C3_4869B33B2BAF.toolTip = Panel de Control
+HotspotPanoramaOverlayArea_75E97B63_6551_79F7_419B_50700E5C048C.toolTip = Pasillo 1
+HotspotPanoramaOverlayArea_75F9BFC8_5D97_0D99_41BE_BE3137D86F98.toolTip = Temperatura, Humedad y Crono
+HotspotPanoramaOverlayArea_75FB1437_5D99_F2F7_41D0_D8413AD6924F.toolTip = Calentadores de Fuidos y Manta Térmica
+HotspotPanoramaOverlayArea_76AE9725_5DA9_1E8B_41BB_B421BBCA5691.toolTip = Torre de Laparoscopia
+HotspotPanoramaOverlayArea_773592C0_5D97_3789_41D4_55F8C8B0D482.toolTip = Armarios
+HotspotPanoramaOverlayArea_77A31B2A_5D9B_3699_41D0_14CB73FA4355.toolTip = Panel de Control
+HotspotPanoramaOverlayArea_77B7D6E9_5DE9_3F9B_41CE_559BE9154C29.toolTip = Bata y Enguantado
+HotspotPanoramaOverlayArea_77B8BB3A_5DB7_16F9_41B2_127625CB97B8.toolTip = Recuento
+HotspotPanoramaOverlayArea_786DDE13_5C6B_0E8F_41CE_B04BB7891CFA.toolTip = Zona Infantil
+HotspotPanoramaOverlayArea_78BA690A_5C69_1299_41D1_AAF1303D251A.toolTip = Premedicación
+HotspotPanoramaOverlayArea_79308FAB_5C69_0D9F_41C3_5DA3317CD483.toolTip = Puesto de Trabajo
+HotspotPanoramaOverlayArea_79539B54_5C69_7689_41C2_725382BB0C8B.toolTip = Perfusores
+HotspotPanoramaOverlayArea_795F7C76_5DA9_1289_41B5_EE6832E423CD.toolTip = Puerta Salida
+HotspotPanoramaOverlayArea_7987874D_5C9B_7E9B_41C4_C798D680D4E4.toolTip = Area Paciente 1
+HotspotPanoramaOverlayArea_79A39145_5C6F_128B_41B8_D5673D95ECCF.toolTip = Puerta Salida
+HotspotPanoramaOverlayArea_79E52E5A_5C6F_0EB9_41C5_A9442D6D9CD5.toolTip = Estufa
+HotspotPanoramaOverlayArea_7A2DB3D6_5C6F_1588_41C1_81ACFF064668.toolTip = Torre de Suministros y Estación de Cauterización
+HotspotPanoramaOverlayArea_7A3388DB_5C69_13BF_41D5_9F80F93ACD65.toolTip = Area Pacientes 2
+HotspotPanoramaOverlayArea_7A81AA54_5C6F_3689_41D6_0293185F24B7.toolTip = Recuento
+HotspotPanoramaOverlayArea_7AC901BD_5DA9_15FB_41D3_7E8B8DE38003.toolTip = Perfusores
+HotspotPanoramaOverlayArea_7AD3E2A9_5D9B_379B_41CE_12D2BD80B47B.toolTip = Lamparas
+HotspotPanoramaOverlayArea_7B0ECF9D_5C69_0DBB_4188_AF00B2245130.toolTip = Torre de Laparoscopia
+HotspotPanoramaOverlayArea_7B85FB35_5C68_F68B_419C_9E7FC89CF93B.toolTip = Accesorios Tablero Quirúrgico
+HotspotPanoramaOverlayArea_7BAC613F_5D99_12F7_41CA_50EBF93CF73C.toolTip = Sistema de Aireación
+HotspotPanoramaOverlayArea_7BFC04A4_5C6B_F389_41AD_B160E9DE8290.toolTip = Armarios
+HotspotPanoramaOverlayArea_7F1E980C_5C6B_3299_41C3_F23EF334200C.toolTip = Area Pacientes 1
+HotspotPanoramaOverlayArea_7F49736A_5C9B_3699_41A0_84572D97424C.toolTip = Area Paciente 2
+HotspotPanoramaOverlayArea_7F800623_5C9B_1E8F_41A1_CB31929AC37A.toolTip = Entrevista
+HotspotPanoramaOverlayArea_7F989B8C_5C99_1599_41D4_91163E632D1F.toolTip = Premedicación
+HotspotPanoramaOverlayArea_7FCA053A_5C9B_12F9_417D_38B972D19DFB.toolTip = Estufa
+HotspotPanoramaOverlayArea_7FE8BC5C_5C69_12B9_41C2_03AA615C950B.toolTip = Entrevista
+HotspotPanoramaOverlayArea_B64E1954_A614_B85C_41A1_C1F87F1B933A.toolTip = Puesto de Trabajo
+HotspotPanoramaOverlayArea_B68407A5_A614_A8FC_41DE_E50FE7B20464.toolTip = Tablero Quirúrgico
+HotspotPanoramaOverlayArea_B71D7A4A_A614_BBB4_41DA_59DE3955D587.toolTip = Mesa de Mayo y Cigüeña
+HotspotPanoramaOverlayArea_B720B8FF_A614_F84C_41DC_04F9B9B5C76B.toolTip = Zona Infantil
+HotspotPanoramaOverlayArea_B789B02C_A617_A7CC_41D2_F88384529509.toolTip = Bata y Enguantado
+HotspotPanoramaOverlayArea_B78EDFE5_A62C_987C_41DC_07B5CA782830.toolTip = Panel de Control
+HotspotPanoramaOverlayArea_D559F21A_DA44_E1F9_41D7_3ADC52C78DAD.toolTip = Pasillo Central
+HotspotPanoramaOverlayArea_D597FF57_DA43_5E77_41BF_34B0D209C59E.toolTip = Pasillo Central
