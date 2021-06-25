@@ -1,8 +1,7 @@
-package com.example
+package com.example.quirofano360prueba
 
 import io.ktor.application.*
 import io.ktor.response.*
-import io.ktor.request.*
 import io.ktor.client.*
 import io.ktor.client.engine.apache.*
 import io.ktor.routing.*
@@ -16,9 +15,6 @@ import io.ktor.gson.*
 import io.ktor.features.*
 import io.ktor.http.content.*
 
-fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
-
-@Suppress("unused") // Referenced in application.conf
 @kotlin.jvm.JvmOverloads
 fun Application.module(testing: Boolean = false) {
     val client = HttpClient(Apache) {
